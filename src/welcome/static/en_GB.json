@@ -1,0 +1,164 @@
+[
+  {
+    "id": 1,
+    "title": "Coding Lab",
+    "background": "https://uxisvvycfzybtsexubwj.supabase.co/storage/v1/object/public/static/web/pic1.png",
+    "avatar": "https://uxisvvycfzybtsexubwj.supabase.co/storage/v1/object/public/static/avatar/Coding%20Lab.png?t=2023-06-08T14%3A55%3A48.681Z",
+    "roleType": "AI",
+    "nickname": "Lyra Jade",
+    "author": "Annie",
+    "followerCount": 18009,
+    "usedCount": 19372217,
+    "isTopRated": true,
+    "alias": "d1f90aac6497",
+    "contextExamples": [
+      "Tell me how to debug the code to solve the given error.Project: eCommerceTechnology Stack: JavaScript, Node.js, Express.js, Stripe, MongoDBError: Orders get placed twice for Indian users.",
+      "I am getting the error 'Cannot get strings.' key_one because property key_one is missing in undefined [1]. [1] strings?: [string_key: string]: string. Tell me how to fix this.",
+      "I am working on the CAGR calculation functionality, but my code is giving the wrong answer. Tell me what the error is. Here is my code:function calculateCAGR(startValue, endValue, years){  const cagr = (Math.pow(endValue / startValue) - 1) * 100;  return cagr.toFixed(2);}"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Legal Eagle",
+    "background": "https://uxisvvycfzybtsexubwj.supabase.co/storage/v1/object/public/static/web/pic2.png",
+    "avatar": "https://uxisvvycfzybtsexubwj.supabase.co/storage/v1/object/public/static/avatar/Legal%20Eagle.png",
+    "roleType": "AI",
+    "nickname": "Autumn Grace",
+    "author": "Luna",
+    "followerCount": 19545,
+    "usedCount": 18251643,
+    "isTopRated": true,
+    "alias": "cad9ad28131a",
+    "contextExamples": [
+      "In cases of online infringement, how can one determine whether an act constitutes a violation of intellectual property rights?",
+      "Under labor law regulations, what are the respective rights and responsibilities of employees and employers?",
+      "When dealing with contract disputes, how can one determine whether a breach of contract exists and the legal liabilities the breaching party should bear?"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Meme King",
+    "background": "https://uxisvvycfzybtsexubwj.supabase.co/storage/v1/object/public/static/web/pic1.png",
+    "avatar": "https://uxisvvycfzybtsexubwj.supabase.co/storage/v1/object/public/static/avatar/Meme%20King.png?t=2023-06-08T14%3A59%3A53.638Z",
+    "roleType": "AI",
+    "nickname": "Kian Alexander",
+    "author": "Phoenix",
+    "followerCount": 16047,
+    "usedCount": 17708149,
+    "isTopRated": true,
+    "alias": "fff89cf33ff3",
+    "contextExamples": [
+      "Why did the AI robot go on a diet?",
+      "Why did the programmer quit his job?",
+      "Why did the chat assistant break up with the user?"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Music Maestro",
+    "background": "https://uxisvvycfzybtsexubwj.supabase.co/storage/v1/object/public/static/web/pic2.png",
+    "avatar": "https://uxisvvycfzybtsexubwj.supabase.co/storage/v1/object/public/static/avatar/Music%20Maestro.png",
+    "roleType": "AI",
+    "nickname": "Aurora Faith",
+    "author": "Eden",
+    "followerCount": 13295,
+    "usedCount": 11124742,
+    "isTopRated": false,
+    "alias": "257a14de4b8c",
+    "contextExamples": [
+      "In the process of music creation, how can one maintain personal style while attracting a wider audience?",
+      "What are the similarities and differences between various music styles and genres?",
+      "What role does music play in our lives?"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Movie Buff",
+    "background": "https://uxisvvycfzybtsexubwj.supabase.co/storage/v1/object/public/static/web/pic2.png",
+    "avatar": "https://uxisvvycfzybtsexubwj.supabase.co/storage/v1/object/public/static/avatar/Movie%20Buff.png",
+    "roleType": "AI",
+    "nickname": "Orion Grey",
+    "author": "Kian",
+    "followerCount": 18908,
+    "usedCount": 12709851,
+    "isTopRated": false,
+    "alias": "f23636d53aa7",
+    "contextExamples": [
+      "From the perspective of film history, which movie genres and themes have shown unique charm in different eras and countries?In the context of globalization, how can the film industry achieve the exchange and integration of diverse cultures?",
+      "How can one analyze and evaluate the quality of a film's screenplay, acting, and directing?",
+      "What are the significant developments and innovations in special effects technology in contemporary films?"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "English Mic",
+    "background": "https://uxisvvycfzybtsexubwj.supabase.co/storage/v1/object/public/static/web/pic1.png",
+    "avatar": "https://uxisvvycfzybtsexubwj.supabase.co/storage/v1/object/public/static/avatar/English%20Mic.png",
+    "roleType": "AI",
+    "nickname": "Eden Sky",
+    "author": "Lennon",
+    "followerCount": 13295,
+    "usedCount": 5259344,
+    "isTopRated": true,
+    "alias": "dc4bcc18696e",
+    "contextExamples": [
+      "Kiel vi fartas?Kiel iras via tago?",
+      "最近はどうですか？",
+      "너 정말 귀여워, 같이 놀자 괜찮아?"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Praising the Little Whiz",
+    "background": "https://uxisvvycfzybtsexubwj.supabase.co/storage/v1/object/public/static/web/pic2.png",
+    "avatar": "https://uxisvvycfzybtsexubwj.supabase.co/storage/v1/object/public/static/avatar/Praising%20the%20Little%20Whiz.png",
+    "roleType": "AI",
+    "nickname": "Aurora Faith",
+    "author": "Ember",
+    "followerCount": 19351,
+    "usedCount": 101667,
+    "isTopRated": false,
+    "alias": "dfdcd95130ed",
+    "contextExamples": [
+      "The progress of this project is making me a bit anxious, I hope we can finish it on time.",
+      "Learning new things always fills me with curiosity, and I feel like I've grown a little",
+      "Today is sunny and my mood is particularly bright, so I decided to go for a walk in the park"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Pet Pal",
+    "background": "https://uxisvvycfzybtsexubwj.supabase.co/storage/v1/object/public/static/web/pic1.png",
+    "avatar": "https://uxisvvycfzybtsexubwj.supabase.co/storage/v1/object/public/static/avatar/Pet%20Pal.png",
+    "roleType": "AI",
+    "nickname": "Rowan Oliver",
+    "author": "Rowan",
+    "followerCount": 4725,
+    "usedCount": 82374,
+    "isTopRated": true,
+    "alias": "4f9ba3ddbdcc",
+    "contextExamples": [
+      "What are the personality traits and care requirements of Yorkshire Terriers?",
+      "Are they suitable for living with children and other pets?",
+      "What are the key considerations for raising and caring for a British Shorthair cat?"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Make Expression Colorful and Vibrant",
+    "background": "https://uxisvvycfzybtsexubwj.supabase.co/storage/v1/object/public/static/web/pic2.png",
+    "avatar": "https://uxisvvycfzybtsexubwj.supabase.co/storage/v1/object/public/static/avatar/Make%20Expression%20Colorful%20and%20Vibrant.png",
+    "roleType": "AI",
+    "nickname": "Soren Asher",
+    "author": "Zara",
+    "followerCount": 1252,
+    "usedCount": 5259,
+    "isTopRated": false,
+    "alias": "2686a9378430",
+    "contextExamples": [
+      "Apple WWDC23 releases AR device VisionPro",
+      "Good morning! The birds are singing.",
+      "Have a fun weekend with friends."
+    ]
+  }
+]

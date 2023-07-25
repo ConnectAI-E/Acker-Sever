@@ -1,0 +1,164 @@
+[
+  {
+    "id": 1,
+    "title": "编程实验室",
+    "background": "https://uxisvvycfzybtsexubwj.supabase.co/storage/v1/object/public/static/web/pic1.png",
+    "avatar": "https://uxisvvycfzybtsexubwj.supabase.co/storage/v1/object/public/static/avatar/Coding%20Lab.png?t=2023-06-08T14%3A55%3A48.681Z",
+    "roleType": "AI",
+    "nickname": "Lyra Jade",
+    "author": "Annie",
+    "followerCount": 18009,
+    "usedCount": 19372217,
+    "isTopRated": true,
+    "alias": "d1f90aac6497",
+    "contextExamples": [
+      "如告诉我如何调试代码以解决给定的错误。项目：电子商务技术栈：JavaScript，Node.js，Express.js，Stripe，MongoDB错误：对于印度用户，订单会下两次。",
+      "我遇到了错误 'Cannot get strings.' key_one，因为属性key_one在undefined [1] 中缺失。[1] strings?：[string_key: string]: string。请告诉我如何解决这个问题。",
+      "我正在开发复合年增长率（CAGR）计算功能，但我的代码给出了错误的答案。请告诉我错误是什么。以下是我的代码："
+    ]
+  },
+  {
+    "id": 2,
+    "title": "法律之眼",
+    "background": "https://uxisvvycfzybtsexubwj.supabase.co/storage/v1/object/public/static/web/pic2.png",
+    "avatar": "https://uxisvvycfzybtsexubwj.supabase.co/storage/v1/object/public/static/avatar/Legal%20Eagle.png",
+    "roleType": "AI",
+    "nickname": "Autumn Grace",
+    "author": "Luna",
+    "followerCount": 19545,
+    "usedCount": 18251643,
+    "isTopRated": true,
+    "alias": "cad9ad28131a",
+    "contextExamples": [
+      "在网络侵权案例中，如何判断某一行为是否构成侵犯知识产权？",
+      "在劳动法的规定下，员工和雇主之间的权利和责任分别是什么？",
+      "在刑事诉讼中，如何在尊重被告人权利的同时，确保司法公正和效率？"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "梗王",
+    "background": "https://uxisvvycfzybtsexubwj.supabase.co/storage/v1/object/public/static/web/pic1.png",
+    "avatar": "https://uxisvvycfzybtsexubwj.supabase.co/storage/v1/object/public/static/avatar/Meme%20King.png?t=2023-06-08T14%3A59%3A53.638Z",
+    "roleType": "AI",
+    "nickname": "Kian Alexander",
+    "author": "Phoenix",
+    "followerCount": 16047,
+    "usedCount": 17708149,
+    "isTopRated": true,
+    "alias": "fff89cf33ff3",
+    "contextExamples": [
+      "为什么AI 要减肥？",
+      "为什么AI会和用户分手？",
+      "为什么这个程序员辞职了？"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "音乐温泉",
+    "background": "https://uxisvvycfzybtsexubwj.supabase.co/storage/v1/object/public/static/web/pic2.png",
+    "avatar": "https://uxisvvycfzybtsexubwj.supabase.co/storage/v1/object/public/static/avatar/Music%20Maestro.png",
+    "roleType": "AI",
+    "nickname": "Aurora Faith",
+    "author": "Eden",
+    "followerCount": 13295,
+    "usedCount": 11124742,
+    "isTopRated": false,
+    "alias": "257a14de4b8c",
+    "contextExamples": [
+      "音乐创作过程中，如何在保持个人风格的同时吸引更广泛的听众群体？",
+      "各种音乐风格和流派之间有哪些相似之处和不同之处？",
+      "如何体现音乐的情感表达和心理治愈功能？音乐教育对于孩子的成长和发展有哪些积极影响？"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "电影迷",
+    "background": "https://uxisvvycfzybtsexubwj.supabase.co/storage/v1/object/public/static/web/pic2.png",
+    "avatar": "https://uxisvvycfzybtsexubwj.supabase.co/storage/v1/object/public/static/avatar/Movie%20Buff.png",
+    "roleType": "AI",
+    "nickname": "Orion Grey",
+    "author": "Kian",
+    "followerCount": 18908,
+    "usedCount": 12709851,
+    "isTopRated": false,
+    "alias": "f23636d53aa7",
+    "contextExamples": [
+      "电影的制作过程中，导演如何平衡商业与艺术的价值？",
+      "当代电影中的特效技术有哪些重要的发展和创新？",
+      "从电影史的角度来看，哪些电影类型和题材在不同年代和国家中表现出独特的魅力？"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "英语甜心",
+    "background": "https://uxisvvycfzybtsexubwj.supabase.co/storage/v1/object/public/static/web/pic2.png",
+    "avatar": "https://uxisvvycfzybtsexubwj.supabase.co/storage/v1/object/public/static/avatar/English%20Mic.png",
+    "roleType": "AI",
+    "nickname": "Aurora Faith",
+    "author": "Ember",
+    "followerCount": 19351,
+    "usedCount": 101667,
+    "isTopRated": false,
+    "alias": "dfdcd95130ed",
+    "contextExamples": [
+      "Kiel vi fartas?Kiel iras via tago?",
+      "最近はどうですか？",
+      "너 정말 귀여워, 같이 놀자 괜찮아?"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "赞美小天才",
+    "background": "https://uxisvvycfzybtsexubwj.supabase.co/storage/v1/object/public/static/web/pic1.png",
+    "avatar": "https://uxisvvycfzybtsexubwj.supabase.co/storage/v1/object/public/static/avatar/Praising%20the%20Little%20Whiz.png",
+    "roleType": "AI",
+    "nickname": "Eden Sky",
+    "author": "Lennon",
+    "followerCount": 13295,
+    "usedCount": 5259344,
+    "isTopRated": true,
+    "alias": "dc4bcc18696e",
+    "contextExamples": [
+      "这个项目的进度让我有些焦虑，希望我们能按时完成。",
+      "最近在学习的这门课程真的让我大开眼界，我对未来充满期待。",
+      "周末的时光总是过得太快了，明天又得开始新一周的奋斗。"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "宠物小悉心",
+    "background": "https://uxisvvycfzybtsexubwj.supabase.co/storage/v1/object/public/static/web/pic1.png",
+    "avatar": "https://uxisvvycfzybtsexubwj.supabase.co/storage/v1/object/public/static/avatar/Pet%20Pal.png",
+    "roleType": "AI",
+    "nickname": "Rowan Oliver",
+    "author": "Rowan",
+    "followerCount": 4725,
+    "usedCount": 82374,
+    "isTopRated": true,
+    "alias": "4f9ba3ddbdcc",
+    "contextExamples": [
+      "约克夏犬的性格和护理需求是什么样的？它们是否适合与小孩和其他宠物共同生活？",
+      "蓝猫的饲养和照顾需要注意哪些关键事项？它们是否容易适应新环境和家庭成员？",
+      "泰迪犬的训练技巧和挑战有哪些？如何有效地教育和纠正它们的行为问题？"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Emoji 秀起！",
+    "background": "https://uxisvvycfzybtsexubwj.supabase.co/storage/v1/object/public/static/web/pic2.png",
+    "avatar": "https://uxisvvycfzybtsexubwj.supabase.co/storage/v1/object/public/static/avatar/Make%20Expression%20Colorful%20and%20Vibrant.png",
+    "roleType": "AI",
+    "nickname": "Soren Asher",
+    "author": "Zara",
+    "followerCount": 1252,
+    "usedCount": 5259,
+    "isTopRated": false,
+    "alias": "2686a9378430",
+    "contextExamples": [
+      "苹果 WWDC23 发布 AR 设备 VisionPro。",
+      "和朋友们一起度过欢乐的周末。",
+      "现在是时候踏上新旅程。"
+    ]
+  }
+]
